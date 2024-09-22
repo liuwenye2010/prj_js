@@ -6,6 +6,10 @@ function doSomeMath() {
 	return sum;
 }
 
+ 
+
 var theResult = doSomeMath();
 
 console.log("The result: ", theResult);
+
+//window.alert("Hello World");
